@@ -1,4 +1,4 @@
 title: Hong 的小楼  # 你的博客标题
 description: 逝者如斯夫，不舍昼夜  # 博客描述
 # theme: minima  # 先用Jekyll自带的默认主题
-remote_theme: no-style-please
+theme: no-style-please
