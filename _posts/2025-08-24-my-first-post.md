@@ -1,8 +1,6 @@
 ---
 layout: post
 title: 学而时习之
-author: 孔子
-date: 2025-08-24 14:00:00 +0800
 layout: default
 ---
 
