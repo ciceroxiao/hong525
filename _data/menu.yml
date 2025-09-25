@@ -1,0 +1,22 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: info
+    entries:
+      - title: A Stoic. Share life, share views.
+      - title: Telegram Channel
+        url: https://t.me/ciceros_self_talk
+      - title: Twitter Main Page
+        url: https://x.com/hong525_x
+      - title: "used by <a href='https://github.com/ciceroxiao/hong525'>Hong525</a>"
+
+  - title: all posts
+    post_list:
+      limit: 7
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: rss
+    url: feed.xml
