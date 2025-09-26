@@ -1,6 +1,6 @@
-title: Hong 的小楼  # 你的博客标题
+title: Hong 的小楼  # 博客标题
 description: 逝者如斯夫，不舍昼夜  # 博客描述
-baseurl: "" # 如果你的网站在子路径，否则留空
+baseurl: "/hong525"
 
 # 使用远程主题
 remote_theme: riggraz/no-style-please
