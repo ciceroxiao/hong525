@@ -1,7 +1,6 @@
 ---
-layout: default
+layout: post
 title: first outdoor running
-description: 第一次室外跑步半小时。
 ---
 
 第一次室外跑步半小时。
