@@ -1,6 +1,7 @@
 ---
 layout: post
-title: first_outdoor_running
+title: "First Outdoor Running"
+date: 2025-09-28 10:00:00 +0800
 ---
 
 第一次室外跑步半小时。
