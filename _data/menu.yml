@@ -5,12 +5,10 @@ entries:
   - title: info
     entries:
       - title: A Stoic. Share life, share views.
-      - title: Telegram Channel
-        url: https://t.me/ciceros_self_talk
-      - title: Twitter Main Page
-        url: https://x.com/hong525_x
-      - title: "used by <a href='https://github.com/ciceroxiao/hong525'>Hong525</a>"
-
+      - title: "used by <a href='https://github.com/ciceroxiao'>Hong525</a>"
+      - title: Life Formule
+      - title: What I'm doing
+      - title: Looking for work
   - title: all posts
     post_list:
       limit: 7
@@ -18,5 +16,13 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
+  - title: accounts on other platforms
+    entries:
+      - title: GitHub Page
+        url: https://github.com/ciceroxiao
+      - title: Telegram Channel - H的小楼
+        url: https://t.me/ciceros_self_talk
+      - title: Twitter - @hong525_x
+        url: https://x.com/hong525_x
   - title: rss
     url: feed.xml
