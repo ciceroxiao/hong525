@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first outdoor running
+title: first_outdoor_running
 ---
 
 第一次室外跑步半小时。
