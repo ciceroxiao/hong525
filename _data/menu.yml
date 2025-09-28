@@ -6,9 +6,9 @@ entries:
     entries:
       - title: A Stoic. Share life, share views.
       - title: "used by <a href='https://github.com/ciceroxiao'>Hong525</a>"
-      - title: Life Formule
+      - title: Life Formulas
       - title: What I'm doing
-      - title: Looking for work
+      - title: Looking for a job
   - title: all posts
     post_list:
       limit: 7
@@ -18,6 +18,8 @@ entries:
 
   - title: accounts on other platforms
     entries:
+      - title: Email
+        url: xiaocicero@gmail.com
       - title: GitHub Page
         url: https://github.com/ciceroxiao
       - title: Telegram Channel - H的小楼
