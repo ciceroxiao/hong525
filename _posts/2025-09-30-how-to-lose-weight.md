@@ -8,7 +8,7 @@ date: 2025-09-29 07:07:26 +0800
 Health = Sleep + Diet + Exercise
 
 Sleep = Schedule + Technique
-Sleep Technique = consistent bedtime and waking time + no reading or TV in bed + no booze or caffeine + keep your phone off the bed or near the bed + a bed is for sleeping and making love only
+Sleep Technique = consistent bedtime and waking time + no reading or TV in bed + no booze or caffeine + keep your phone off the bed or near the bed + a bed is for sleeping or making love only
 
 Diet = Knowledge + Environment
 Knowledge = Effects of Food + Hunger is the sufficient condition for the body's need for food
