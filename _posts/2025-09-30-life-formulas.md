@@ -13,13 +13,18 @@ Peaceful Life = Health + Money + Relationship + Meaning
 Health = Sleep + Diet + Exercise
 
 Sleep = Schedule + Technique
+
 Sleep Technique = consistent bedtime and waking time + no reading or TV in bed + no booze or caffeine + keep your phone off the bed or near the bed + a bed is for sleeping and making love only
 
 
 Diet = Knowledge + Environment
+
 Knowledge = Effects of Food + Hunger is the sufficient condition for the body's need for food
+
 Effects of Food = Good Foods - Bad Foods
+
 Environment = People + Life/Work Environment
+
 People = Real Life + Social Media
 
 Exercise = Enjoyment + Environment + Everyday
@@ -28,8 +33,11 @@ Exercise = Enjoyment + Environment + Everyday
 Money = Saving + Investments
 
 Saving = Income - Expense
+
 Income = Value * Sales
+
 Value = Skills * 2 * Good Decision
+
 Expense = Basic Needs + Good Consumer Behavior
 
 Investments = Good assets
