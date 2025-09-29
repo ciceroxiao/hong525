@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Life Formulas
-data: 2025-09-29 06:35:36 +0800
+date: 2025-09-30 06:35:36 +0800
 ---
 
 Hong525 = Stoic = Peaceful Life
