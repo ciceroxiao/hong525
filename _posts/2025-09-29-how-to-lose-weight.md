@@ -8,7 +8,7 @@ date: 2025-09-29 07:07:26 +0800
 Health = Sleep + Diet + Exercise
 
 Sleep = Schedule + Technique
-Sleep Technique = consistent bedtime and waking time + no reading or TV in bed + no booze or caffeine + keep your phone off the bed or near the bed + a bed is for sleeping or making love only
+Sleep Technique = consistent bedtime and waking time + no reading or TV in bed + no booze or caffeine + keep your phone off the bed or near the bed + the bed is for sleeping or making love only
 
 Diet = Knowledge + Environment
 Knowledge = Effects of Food + Hunger is the sufficient condition for the body's need for food
@@ -22,7 +22,8 @@ Exercise = Enjoyment + Environment + Everyday
 说明：
 - 不同的食物，对人的作用不同。例如，辣椒会让人流汗，吃多了红薯会放屁，一碗白米饭下肚让人打瞌睡……必须弄清楚每种食物的作用。
 - 同一种食物，对不同的人的作用不同。例如，花生过敏症。
-- 有两种情况会让人产生进食冲动：疲倦与饥饿。
+- “正确”与“错误”与否，取决于个体。
+- 有三种情况会让人产生进食冲动：疲倦、精神压力与饥饿。
 - 蛋白质 >> 水果 >> 碳水。
 - “我要吃点什么” --> “我得吃点蛋白质”
 - 看着胖子朋友吃东西会面临两重困难：社交压力和美食的短期诱惑。
