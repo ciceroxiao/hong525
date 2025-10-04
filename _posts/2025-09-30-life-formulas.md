@@ -37,7 +37,7 @@ Investments = Good assets
 Relationship = Family + Friends
 
 
-Meaning =
+Meaning = 知之者不如好之者，好之者不如乐之者。
 ```
 
 说明：
