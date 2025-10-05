@@ -20,11 +20,13 @@ entries:
   - title: accounts on other platforms
     entries:
       - title: Email - xiaocicero@gmail.com
-      - title: GitHub Page
+      - title: GitHub Main Page
         url: https://github.com/ciceroxiao
       - title: Telegram Channel - H的小楼
         url: https://t.me/ciceros_self_talk
-      - title: Twitter - @hong525_x
+      - title: Twitter Main Page
         url: https://x.com/hong525_x
+  - title: This blog is hosted on a GitHub repository.
+    url: https://github.com/ciceroxiao/hong525
   - title: rss
     url: feed.xml
