@@ -16,7 +16,7 @@ title: Why You Shouldn't Weigh Yourself Every Day
 
 体重数字是为了衡量生活方式而选择的指标，该指标能够反映生活方式是否正确。可这并不是说，体重数字好看就等于生活方式是正确的。良好生活方式的结果包括好看的体重数字。有些东西，是无法用数字来衡量跟踪的。
 
-禅宗有个故事，贤者以手指月，众人见指而忘月。
+禅宗有个故事，贤者以手指月，众人见指而忘月[^1]。
 
 资本主义略去所有的繁琐细节，在大多数情况下，让人只需关注某家公司的利润。可是，观察某家公司时，如果只看该公司的利润，那你就会被利润带到沟里头去——乐视、瑞幸（列不完的名字）——只看利润，你无法弄清楚这家公司是否本分、是否有持续盈利的潜力……
 
@@ -26,7 +26,4 @@ title: Why You Shouldn't Weigh Yourself Every Day
 
 综上，我决心放弃每日测量体重，改为每月测量一次，确保心中有个大概的数就行。
 
-![](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/why-you-should-not-weign-yourself-every-day-1.jpg)
-
-![](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/why-you-should-not-weign-yourself-every-day-2.jpg)
-
+[^1]: 我找过这个故事的出处，像是《六祖坛经》、《圆觉经》，都没有这个故事，只有相关叙述。可我喜欢这个故事，简洁明了、一语中的。
