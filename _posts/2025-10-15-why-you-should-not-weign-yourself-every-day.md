@@ -1,6 +1,6 @@
 ---
 layout: post
-date:2025-10-15 05:28:03 +0800 
+date: 2025-10-15 05:28:03 +0800 
 title: Why You Shouldn't Weigh Yourself Every Day
 ---
 
