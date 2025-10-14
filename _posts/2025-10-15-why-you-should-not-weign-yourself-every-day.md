@@ -26,7 +26,7 @@ title: Why You Shouldn't Weigh Yourself Every Day
 
 综上，我决心放弃每日测量体重，改为每月测量一次，确保心中有个大概的数就行。
 
-![晨跑1](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/why-you-should-not-weign-yourself-every-day-1.jpg)
+![](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/why-you-should-not-weign-yourself-every-day-1.jpg)
 
-![晨跑](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/why-you-should-not-weign-yourself-every-day-2.jpg)
+![](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/why-you-should-not-weign-yourself-every-day-2.jpg)
 
