@@ -44,5 +44,6 @@ Exercise = Enjoyment + Environment + Everyday
 
 2025 年 3 月份左右，我的体重大概是 73.5 公斤左右，现在的体重是 64.3 公斤左右。没有挨饿、没有吃药，就是一点一点改变生活方式来减轻体重的。现在，体重还在一点点地往下降。如果用一句话来总结，那就是段永平的话：吃正确的食物，将食物吃对；不吃错误的食物，知道是错误的食物马上丢掉。仅此而已。
 
+---
 
 [^1]: 2025-10-15，不再每日早晚各测量一次体重，而是每月测量一次体重。具体原因见：[Why You Shouldn't Weigh Yourself Every Day](https://ciceroxiao.github.io/hong525/2025/10/14/why-you-should-not-weign-yourself-every-day.html)。
