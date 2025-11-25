@@ -4,13 +4,12 @@
 entries:
   - title: info
     entries:
-      - title: A Stoic. Share life, share views.
+      - title: A Stoic. A runner. Share life, share views.
       - title: "used by <a href='https://github.com/ciceroxiao'>Hong525</a>"
       - title: Life Formulas
         url: https://ciceroxiao.github.io/hong525/2025/09/29/life-formulas.html
-      - title: 我为什么要写作/博客
-        url: https://ciceroxiao.github.io/hong525/2025/11/17/why-do-I-write.html
       - title: What I'm doing
+        url: 
       - title: Looking for a job
   - title: all posts
     post_list:
