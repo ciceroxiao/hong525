@@ -1,8 +1,12 @@
 ---
 date: 2025-11-25 19:41:53 +0800 
 layout: post
-title: 我从跑步中学到的
+title: what I have learned from running
 ---
+
+> The first principle is that you must not fool yourself and you are the easiest person to fool.
+>
+> Richard P. Feynman
 
 我尝试过跑步，后来放弃了。当初放弃跑步，似乎就跟温度有关。去年十一月月份左右，开始跑步。可那时没能早起，也冷，我还得七点半左右出门上班。种种因素之下，就没跑多久。
 
