@@ -7,7 +7,7 @@ date: 2025-10-02 08:19:25 +0800
 > 回复@教皇_28527:没错，就是这样，这就是原因。绝大多数人都是这样，思而不学，宁可“想了很久”，也不愿意找本成语词典看一下，自己寻找答案，来肯定或者否定这个观点。//@教皇_28527:想了很久还是没有想明白为什么是看成语字典，希望tk能解惑
 > [回复@教皇\_2852... - @tombkeeper的微博 - 微博](https://weibo.com/1401527553/Q7a9dADji)
 
-截图：![](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/2025/TK_20251001_2256.png?raw=true)
+截图：![](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/2025-10-02-TK-20251001_2256.png?raw=true)
 
 我来回答一下为什么。
 

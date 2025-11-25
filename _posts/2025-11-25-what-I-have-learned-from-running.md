@@ -34,7 +34,7 @@ title: what I have learned from running
 
 我还在跑。对我来说，跑步是认识自我、理解并应用某些事情的方式。我的自我认同包括 runner。
 
-![](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/2025/2025-11-25-running-log.jpg?raw=true)
+![](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/2025-11-25-running-log.jpg?raw=true)
 
 ---
 
