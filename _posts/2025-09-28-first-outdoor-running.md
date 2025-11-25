@@ -16,4 +16,4 @@ date: 2025-09-28 06:30:00 +0800
 
 不管怎么说，室外跑步是比室内原地跑要舒服得多。喜欢。
 
-![first-outdoor-running](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/first-outdoor-running.jpg?raw=true)
+![first-outdoor-running](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/2025/first-outdoor-running.jpg?raw=true)
