@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2025-11-11 05:54:45 +0800
-title: 我学习英语的理由
+title: the reason why I study English
 ---
 
 在大模型发展如火如荼的当下，为什么我仍决定且在“学习”英语？
