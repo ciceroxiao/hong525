@@ -1,7 +1,7 @@
 ---
 date: 2025-11-18 04:14:21 +0800 
 layout: post
-title: 我为什么要写作/博客
+title: how to keep writing/blogging
 ---
 
 > 運交華蓋欲何求，未敢翻身已碰頭。
