@@ -5,7 +5,7 @@ date: 2025-11-04 08:17:28 +0800
 ---
 
 
-![康熙的红票](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/Kangxi_hong_piao.jpg?raw=true)
+![](https://github.com/ciceroxiao/hong525/blob/main/_screenshots/2025/Kangxi_hong_piao.jpg?raw=true)
 
 《康熙的红票》，这本书读完快两月了。我呢，一开始只想写下这本书讲了什么，现在却打算再写写这本书聊了哪些错误、或者说帮我纠正了哪些错误观念。
 
