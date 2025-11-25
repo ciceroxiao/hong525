@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 读《康熙的红票》
+title: about Kangxi Red Tickets
 date: 2025-11-04 08:17:28 +0800 
 ---
 
