@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: A Stoic. A runner. Share life, share views.
+      - title: A Stoic. Enjoy running. Share life, share views.
       - title: "used by <a href='https://github.com/ciceroxiao'>Hong525</a>"
       - title: Life Formulas
         url: https://ciceroxiao.github.io/hong525/2025/09/29/life-formulas.html
@@ -27,7 +27,5 @@ entries:
         url: https://t.me/ciceros_self_talk
       - title: Twitter Main Page
         url: https://x.com/hong525_x
-  - title: This blog is hosted on a GitHub repository.
+  - title: This blog is hosted on the GitHub repository.
     url: https://github.com/ciceroxiao/hong525
-  - title: rss
-    url: feed.xml
