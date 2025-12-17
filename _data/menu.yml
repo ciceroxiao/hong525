@@ -14,7 +14,7 @@ entries:
       - title: Looking for a job
   - title: all posts
     post_list:
-      limit: 7
+      limit: 5
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
