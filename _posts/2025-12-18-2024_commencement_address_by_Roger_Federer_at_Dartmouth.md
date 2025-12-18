@@ -8,7 +8,7 @@ title: 2024 Commencement Address by Roger Federer at Dartmouth
 
 YouTube: [2024 Commencement Address by Roger Federer at Dartmouth - YouTube](https://www.youtube.com/watch?v=pqWUuYTcG-o)
 
-文字版全文: [2024 Commencement Address by Roger Federer | Dartmouth](https://home.dartmouth.edu/news/2024/06/2024-commencement-address-roger-federer)
+文字版全文: [2024 Commencement Address by Roger Federer at Dartmouth](https://home.dartmouth.edu/news/2024/06/2024-commencement-address-roger-federer)
 
 在看这个演讲视频以前，我不知道谁是费德勒。看完这个演讲视频以后，我才去搜了搜费德勒相关的资料。大概印象是，费德勒做出极大努力才成为网球界的第一人。他做出的努力包括管理个人情绪、克服场地环境的影响……
 
