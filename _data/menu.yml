@@ -14,10 +14,18 @@ entries:
       - title: Looking for a job
   - title: all posts
     post_list:
-      limit: 5
+      limit: 3
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
+      
+  - title: digest
+    post_list:
+      category: digest
+      limit: 3
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: digest-archive.html
 
   - title: accounts
     entries:
