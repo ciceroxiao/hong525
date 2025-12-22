@@ -12,6 +12,7 @@ entries:
       - title: What I'm doing
         url: https://ciceroxiao.github.io/hong525/2025/11/25/what-I-am-doing.html
       - title: Looking for a job
+
   - title: all posts
     post_list:
       limit: 3
@@ -36,5 +37,6 @@ entries:
         url: https://t.me/ciceros_self_talk
       - title: Twitter Main Page
         url: https://x.com/hong525_x
+
   - title: This blog is hosted on the GitHub repository.
     url: https://github.com/ciceroxiao/hong525
