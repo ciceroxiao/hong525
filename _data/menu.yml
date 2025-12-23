@@ -34,7 +34,7 @@ entries:
       limit: 3
       show_more: true
       show_more_text: See more posts...
-      show_more_url: digest-archive.html
+      show_more_url: essays-archive.html
 
   - title: accounts
     entries:
