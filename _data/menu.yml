@@ -28,6 +28,14 @@ entries:
       show_more_text: See more posts...
       show_more_url: digest-archive.html
 
+  - title: digest
+    post_list:
+      category: 杂文
+      limit: 3
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: digest-archive.html
+
   - title: accounts
     entries:
       - title: Email - xiaocicero@gmail.com
