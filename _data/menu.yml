@@ -28,9 +28,9 @@ entries:
       show_more_text: See more posts...
       show_more_url: digest-archive.html
 
-  - title: digest
+  - title: essays
     post_list:
-      category: 杂文
+      category: essays
       limit: 3
       show_more: true
       show_more_text: See more posts...
