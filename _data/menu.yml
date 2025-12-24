@@ -19,14 +19,6 @@ entries:
       show_more: true
       show_more_text: See archive...
       show_more_url: archive.html
-      
-  - title: digest
-    post_list:
-      category: digest
-      limit: 3
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: digest-archive.html
 
   - title: essays
     post_list:
@@ -35,6 +27,14 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: essays-archive.html
+
+  - title: digest
+    post_list:
+      category: digest
+      limit: 3
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: digest-archive.html
 
   - title: accounts
     entries:
