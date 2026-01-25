@@ -9,8 +9,8 @@ entries:
       - title: "used by <a href='https://github.com/ciceroxiao'>Hong525</a>"
       - title: Life Formulas
         url: https://ciceroxiao.github.io/hong525/essays/2025/09/29/life-formulas.html
-      - title: What I'm doing
-        url: https://ciceroxiao.github.io/hong525/2025/11/25/what-I-am-doing.html
+      - title: My Views
+        url: https://github.com/ciceroxiao/hong525/issues
       - title: Looking for a job
 
   - title: all posts
@@ -20,7 +20,7 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: accounts
+  - title: contact info
     entries:
       - title: Email - xiaocicero@gmail.com
       - title: GitHub Main Page
@@ -30,5 +30,5 @@ entries:
       - title: Twitter Main Page
         url: https://x.com/hong525_x
 
-  - title: This blog is hosted on the GitHub repository.
+  - title: This page is hosted on the GitHub repository.
     url: https://github.com/ciceroxiao/hong525
