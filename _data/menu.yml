@@ -7,16 +7,8 @@ entries:
       - title: A Stoic. Enjoy running. Share life, share views.
       - title: 本分健康，认真努力。做对事情，知错即止。
       - title: "used by <a href='https://github.com/ciceroxiao'>Hong525</a>"
-      - title: My Column
+      - title: My Opinion
         url: https://github.com/ciceroxiao/hong525/issues
-      - title: Looking for a job
-
-  - title: all posts
-    post_list:
-      limit: 3
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
 
   - title: contact info
     entries:
