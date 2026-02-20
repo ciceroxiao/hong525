@@ -1,5 +1,5 @@
 
-Hong's Personal Blog.
+Hong's Blog.
 
 Twitter: [Hong 🐱 (@hong525\_x) / Twitter](https://x.com/hong525_x)
 
