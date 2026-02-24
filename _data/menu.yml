@@ -2,23 +2,22 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
-    entries:
-      - title: A Stoic. Enjoy running. Share life, share views.
-      - title: 本分健康，认真努力。做对事情，知错即止。
-      - title: "used by <a href='https://github.com/ciceroxiao'>Hong525</a>"
-      - title: My Opinion
-        url: https://github.com/ciceroxiao/hong525/issues
+  - title: 最新文章
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: 查看更多...
+      show_more_url: archive.html
 
-  - title: contact info
+  - title: 链接
     entries:
-      - title: Email - xiaocicero@gmail.com
-      - title: GitHub Main Page
+      - title: 文章归档
+        url: archive.html
+      - title: GitHub
         url: https://github.com/ciceroxiao
-      - title: Telegram Channel - H的小楼
-        url: https://t.me/ciceros_self_talk
-      - title: Twitter Main Page
+      - title: Twitter
         url: https://x.com/hong525_x
-
-  - title: This page is hosted on the GitHub repository.
-    url: https://github.com/ciceroxiao/hong525
+      - title: Telegram 频道
+        url: https://t.me/ciceros_self_talk
+      - title: 专栏（GitHub Issues）
+        url: https://github.com/ciceroxiao/hong525/issues
