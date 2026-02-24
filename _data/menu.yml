@@ -2,17 +2,9 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: 最新文章
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: 查看更多...
-      show_more_url: archive.html
 
   - title: 链接
     entries:
-      - title: 文章归档
-        url: archive.html
       - title: GitHub
         url: https://github.com/ciceroxiao
       - title: Twitter
