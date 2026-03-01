@@ -2,11 +2,11 @@
 layout: home
 ---
 
-_"本分健康，认真努力。做对事情，知错即止。"_
+_"本分健康，认真努力。对则做对，知错即止。"_
 
 ### Who I Am
 
-我是一个热爱生活的人，秉持斯多葛哲学的生活态度，喜欢跑步，乐于分享生活点滴和观点。
+我是 Hong525，秉持斯多葛哲学的生活态度，喜欢跑步，乐于分享生活点滴和观点。
 
 我是 [Hong525](https://github.com/ciceroxiao)，你也可以在以下平台找到我：
 - [GitHub](https://github.com/ciceroxiao)
@@ -21,9 +21,9 @@ _"本分健康，认真努力。做对事情，知错即止。"_
 
 - **Email**: xiaocicero@gmail.com
 - **Twitter**: [@hong525_x](https://x.com/hong525_x)
-- **Telegram**: [私信](https://t.me/ciceros_self_talk)
+- **Telegram**: [私信](https://t.me/hong525_tg)
 
-请注意，虽然我会阅读所有邮件，但由于时间有限，可能无法一一回复。
+请注意，虽然我会阅读所有邮件，但由于精力和时间有限，可能无法一一回复。
 
 ### About This Site
 
