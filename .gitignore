@@ -1,0 +1,11 @@
+# 本地临时文件
+temp.md
+
+# 运行时文件
+*.pid
+*.log
+*.log.old
+
+# 本地目录（远程不存在，不上传）
+blog_bot/
+_posts/
