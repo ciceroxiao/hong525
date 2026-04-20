@@ -1,0 +1,57 @@
+name: Auto-lock closed issues
+
+on:
+  schedule:
+    # 每天凌晨 02:00 UTC 运行
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+
+permissions:
+  issues: write
+
+jobs:
+  lock-old-issues:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Lock issues closed for more than 7 days
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issues = await github.paginate(github.rest.issues.listForRepo, {
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'closed',
+              per_page: 100
+            });
+
+            const now = Date.now();
+            const sevenDaysMs = 7 * 24 * 60 * 60 * 1000;
+            let lockedCount = 0;
+            let skippedCount = 0;
+
+            for (const issue of issues) {
+              // 跳过 Pull Request（GitHub API 中 PR 也视为 issue）
+              if (issue.pull_request) {
+                continue;
+              }
+
+              // 跳过已锁定的 issue
+              if (issue.locked) {
+                skippedCount++;
+                continue;
+              }
+
+              const closedAt = new Date(issue.closed_at).getTime();
+              if (now - closedAt > sevenDaysMs) {
+                await github.rest.issues.lock({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  lock_reason: 'resolved'
+                });
+                console.log(`🔒 Locked #${issue.number} (closed at ${issue.closed_at})`);
+                lockedCount++;
+              }
+            }
+
+            console.log(`\nDone. Newly locked: ${lockedCount}, Already locked/skipped: ${skippedCount}`);
