@@ -1,0 +1,66 @@
+# 通过 GitHub Issues 写作，自动生成博客站点
+# 触发条件：Issue 创建/编辑/关闭/重开/标签变化，或手动触发
+#
+# ⚠️ 使用本 Workflow 前，请前往仓库 Settings > Pages > Build and deployment
+#    将 Source 改为 "GitHub Actions"
+
+name: Build Blog from Issues
+
+on:
+  issues:
+    types: [opened, edited, closed, reopened, labeled, unlabeled]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Sync Issues to _posts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python scripts/sync_issues.py
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll build
+        env:
+          JEKYLL_ENV: production
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

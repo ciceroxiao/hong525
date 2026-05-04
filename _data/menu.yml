@@ -2,6 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
+  - title: 文章列表
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: 查看全部...
+      show_more_url: archive.html
 
   - title: 链接
     entries:
